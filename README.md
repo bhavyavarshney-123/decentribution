@@ -1,7 +1,7 @@
 
 #  Decentribution
 
-A public decentralized ration distribution system with a UI built using HTML, CSS, and Javascript that leverages Go to produce the permissioned blockchain matter, which was inspired by ethgo and Bitcoin. The data in the existing ration distribution system is stored in books, which can be manipulated and increase the likelihood of corruption. With a ration distribution system built on top of a blockchain with its benefits, this project offers a tempered-proof solution.
+A public decentralized ration distribution system with a UI that leverages Go to produce the permissioned blockchain matter, which was inspired by ethgo and Bitcoin. The data in the existing ration distribution system is stored in books, which can be manipulated and increase the likelihood of corruption. With a ration distribution system built on top of a blockchain with its benefits, this project offers a tempered-proof solution.
 
 
 ## Prerequisite
